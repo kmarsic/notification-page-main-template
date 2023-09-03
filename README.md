@@ -55,4 +55,5 @@ I'm working towards making a chat app and I believe this project will make it ea
 ## Author
 
 Frontend Mentor - [https://www.frontendmentor.io/profile/kmarsic](https://www.frontendmentor.io/profile/kmarsic)
+
 LinkedIn - [https://www.linkedin.com/in/kmarsic/](https://www.linkedin.com/in/kmarsic/)
